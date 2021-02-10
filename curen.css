@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+h4
+{
+  font-size: 30px;
+  font-weight: 700;
+  padding-right: 30px;
+  justify-content: center;
+  margin-bottom: 20px;
+  text-align: center;
+  
+ 
+}
+
+.container
+{
+    margin-top: 230px;
+    width: 450px;
+    height: 300px;
+    background-color:rgba(148, 76, 76, 0.932);
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlHoY5tjVANDx19LBAMVAg_fYPR2CcDuPZA&usqp=CAU");
+    color: rgb(9, 12, 14);
+    overflow: auto;
+
+}
+div .col-6
+{
+    font-weight: 800;
+    font-size: 15px;
+}
+body {
+    background-image: url("https://c8.alamy.com/comp/MD4DM8/currency-concept-money-on-school-board-background-MD4DM8.jpg");
+  }
